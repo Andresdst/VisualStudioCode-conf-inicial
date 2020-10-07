@@ -19,3 +19,6 @@ para utilizarlas busca en las configuraciones: Workbench > Settings:Editor
 en Window lo ubicas pulsando
 
 ### Ctrl + ,
+
+en el archivo settings.json muestra todas las configuraciones
+Puedes copiar las configuraciones en ese archivo
