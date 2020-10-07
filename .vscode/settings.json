@@ -1,13 +1,14 @@
 {
-  "window.zoomLevel": -1,
-  "editor.suggestSelection": "first",
+  "window.zoomLevel": -1, //zoom general del editor
+  "editor.suggestSelection": "first", //selecionar editor por defecto
   "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
   "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
-  "editor.fontSize": 14,
-  "editor.formatOnSave": true,
-  "editor.formatOnPaste": true,
-  "editor.tabSize": 2,
-  "editor.renderWhitespace": "all",
-  "editor.defaultformatter": "esbenp.prettier-vscode",
+  "editor.fontSize": 14, //tamaño de letra
+  "editor.formatOnSave": true, //formatear texto al guardar
+  "editor.formatOnPaste": true, //formatear texto al copiar
+  "editor.tabSize": 2, //Espacios al usar Tab
+  "editor.renderWhitespace": "all", //render Tab Space
+  "editor.defaultformatter": "esbenp.prettier-vscode", //formatear de texto por defecto
+  "workbench.colorTheme": "Visual Studio Dark", //tema
   "workbench.settings.editor": "json"
 }
